@@ -1,7 +1,7 @@
 {
     "version": "2.0.0",
     "summary": "A Flatris clone in Elm language",
-    "repository": "https://github.com/w0rm/elm-flatris.git",
+    "repository": "https://github.com/friedbrice/elm-flatris.git",
     "license": "MIT",
     "source-directories": [
         "src"
